@@ -31,9 +31,6 @@ Speed is calculated by measuring the time taken for an object to traverse betwee
 - YOLO v4: Credits to the developers and contributors of YOLO v4 for their outstanding object detection model.
 - DeepSORT: Credits to the developers and contributors of DeepSORT for providing a robust object tracking algorithm.
 
-## License
-[Insert License Here]
-
 ## Disclaimer
 This project is for educational and research purposes only. Usage of the project for any unlawful purposes is strictly prohibited. The developers of this project are not responsible for any misuse or illegal activities conducted using this software.
 
